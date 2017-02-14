@@ -1,0 +1,43 @@
+
+
+div#lots-of-content {
+	width: 95%;
+	height: 2000px;
+	padding-top: 25%;
+	border: 3px solid blue;
+	margin: 30px auto 30px;
+	background-color: rgb(224, 224, 224);
+}
+
+.navbar-default {
+	background-color: lightgreen;
+}
+
+.navbar-header {
+	background-color: pink;
+}
+
+div#my-collapsable-nav {
+}
+
+div.my-tile {
+	background-color: darkgrey;
+	height: 300px;
+	width: 300px;
+}
+
+h2 {
+	/*text-align: center;
+	width: 95%;
+	background-color: lightgrey;
+	border: 2px solid cyan;
+	margin: auto;
+	padding: 20px 0px 20px;*/
+}
+
+li > span {
+	text-align: center;
+	/*border: 1px solid black;
+	margin-top: 2px;*/
+	font-size: 1.5em;
+}
