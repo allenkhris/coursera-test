@@ -1,9 +1,13 @@
 
+body {
+  font-family: 'Oxygen', sans-serif;
+}
+
 
 div#lots-of-content {
 	width: 95%;
 	height: 2000px;
-	padding-top: 25%;
+	padding-top: 5%;
 	border: 3px solid blue;
 	margin: 30px auto 30px;
 	background-color: rgb(224, 224, 224);
@@ -21,9 +25,21 @@ div#my-collapsable-nav {
 }
 
 div.my-tile {
-	background-color: darkgrey;
-	height: 300px;
-	width: 300px;
+    font-family: 'Lora', serif;
+	  color: #557c3e;
+	  font-size: 1.5em;
+	  text-transform: uppercase;
+	  font-weight: bold;
+	  text-shadow: 1px 1px 1px #222;
+	background-color: orange;
+	height: 500px;
+	/*width: auto;*/
+	/*width: 85%;*/
+	padding: 50px;
+	margin: 5px 10px 5px;
+	border: 2px solid black;
+	text-align: center;
+	/*float: left;*/
 }
 
 h2 {
